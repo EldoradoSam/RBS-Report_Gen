@@ -1,6 +1,6 @@
 <?php
 
-namespace rbs\report;
+namespace eld\report;
 
 use Illuminate\Support\ServiceProvider;
 

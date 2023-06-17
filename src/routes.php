@@ -2,7 +2,7 @@
 
 
 use Illuminate\Support\Facades\Route;
-use rbs\report\RbsReportController;
+use eld\report\RbsReportController;
 
 Route::get('report',function(){
     echo 'Hello Rbs Report';

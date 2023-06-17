@@ -1,6 +1,6 @@
 <?php
 
-namespace rbs\report;
+namespace eld\report;
 
 use Illuminate\Http\Request;
 USE App\Http\Controllers\Controller;
